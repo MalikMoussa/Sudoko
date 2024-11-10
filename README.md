@@ -1,7 +1,7 @@
 # Sudoku Solver
 
 ## Author
-   **-MOUSSA BOUDJEMAA Merwan Malik
+   **-MOUSSA BOUDJEMAA Merwan Malik**
 
 This program solves Sudoku puzzles using a series of deduction rules: DR1, DR2, and DR3. Each rule applies progressively more complex solving techniques to try and resolve the puzzle.
 
